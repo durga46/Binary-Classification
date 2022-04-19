@@ -44,7 +44,7 @@ pyplot.legend()
 pyplot.show()
 ```
 ## Output:
-![output](./ststic/img/b1.png)
+![output](./static/img/b1.png)
 
 
 ## Result:

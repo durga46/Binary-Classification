@@ -1,7 +1,7 @@
 
 ### EX NO: 02
 ### DATE: 01.04.2022
-# <p align="center"> BACK PROPOGATION IN SINGLE NEURON</p>
+# <p align="center"> BINARY CLASSIFICATION</p>
 ## Aim:
 To write a python program to perform binary classification.
 
